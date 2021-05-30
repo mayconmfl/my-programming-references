@@ -10,7 +10,7 @@ It is a mutable list that is born incomplete, but the intention is to keep it in
 
 > [Repos](#repos)
 
-> [YouTube Channel](#youtube-channel)
+> [YouTube Channels](#youtube-channels)
 
 > [Books](#books)
 
@@ -69,7 +69,7 @@ It is a mutable list that is born incomplete, but the intention is to keep it in
 - [Java Developer Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap)
 - [Java Faker Library](https://github.com/DiUS/java-faker)
 
-# YouTube Channel
+# YouTube Channels
 
 - [Akitando](https://www.youtube.com/user/AkitaOnRails)
 - [Ben Eater](https://www.youtube.com/user/eaterbc)
