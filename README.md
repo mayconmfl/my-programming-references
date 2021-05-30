@@ -5,16 +5,27 @@ It is a mutable list that is born incomplete, but the intention is to keep it in
 
 # Contents
 > [Guides](#Guias)
+
 > [Blogs](#Blogs)
+
 > [Repos](#Repos)
+
 > [YouTube Channel](#YouTube Channel)
+
 > [Books](#Books)
+
 > [Tools](#Tools)
+
 > [Courses](#Courses)
+
 > [Documentations](#Documentations)
+
 > [Articles](#Articles)
+
 > [Videos](#Videos)
+
 > [Questions](#Questions)
+
 > [Podcast](#Podcast) 
 
 # Guides
