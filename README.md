@@ -56,6 +56,7 @@ It is a mutable list that is born incomplete, but the intention is to keep it in
 - [The Crazy Programmer](https://danluu.com)
 - [Coding Horror - by Jeff Atwood](https://blog.codinghorror.com)
 - [Joel on Software - by Joel Spolsky](https://www.joelonsoftware.com)
+- [Eder Ignatowicz](https://ederign.me)
 
 # Repos
 
