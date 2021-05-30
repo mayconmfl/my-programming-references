@@ -96,6 +96,9 @@ It is a mutable list that is born incomplete, but the intention is to keep it in
 # Tools
 
 - [Sequence Diagram](https://sequencediagram.org)
+- [Live JSON Generator](http://www.objgen.com)
+- [Editor Swagger](http://editor.swagger.io)
+- [Draw io](https://app.diagrams.net)
 
 # Courses
 
