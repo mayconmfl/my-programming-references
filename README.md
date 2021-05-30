@@ -5,6 +5,7 @@ It is a mutable list that is born incomplete, but the intention is to keep it in
 
 # Contents
 > [Guides](#Guides)
+> <a href="#Guides">Guides</a>
 
 > [Blogs](#Blogs)
 
