@@ -1,4 +1,4 @@
-# My Programming References
+# Computer Programming References
 
 This is a curated list of references that I consult on topics related to computer programming.
 It is a mutable list that is born incomplete, but the intention is to keep it in a public place, easy to edit and share.
