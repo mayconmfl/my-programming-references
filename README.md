@@ -10,7 +10,7 @@ It is a mutable list that is born incomplete, but the intention is to keep it in
 
 > [Repos](#Repos)
 
-> [YouTube Channel](#YouTube Channel)
+> [YouTube Channel](#YouTube-Channel)
 
 > [Books](#Books)
 
