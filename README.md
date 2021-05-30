@@ -4,30 +4,29 @@ This is a curated list of references that I consult on topics related to compute
 It is a mutable list that is born incomplete, but the intention is to keep it in a public place, easy to edit and share.
 
 # Contents
-> [Guides](#Guides)
-> <a href="#Guides">Guides</a>
+> [Guides](#guides)
 
-> [Blogs](#Blogs)
+> [Blogs](#blogs)
 
-> [Repos](#Repos)
+> [Repos](#repos)
 
-> [YouTube Channel](#YouTube-Channel)
+> [YouTube Channel](#youtube-channel)
 
-> [Books](#Books)
+> [Books](#books)
 
-> [Tools](#Tools)
+> [Tools](#tools)
 
-> [Courses](#Courses)
+> [Courses](#courses)
 
-> [Documentations](#Documentations)
+> [Documentations](#documentations)
 
-> [Articles](#Articles)
+> [Articles](#articles)
 
-> [Videos](#Videos)
+> [Videos](#videos)
 
-> [Questions](#Questions)
+> [Questions](#questions)
 
-> [Podcast](#Podcasts) 
+> [Podcast](#podcasts) 
 
 # Guides
 
