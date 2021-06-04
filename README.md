@@ -26,7 +26,7 @@ It is a mutable list that is born incomplete, but the intention is to keep it in
 
 > [Questions](#questions)
 
-> [Podcast](#podcasts) 
+> [Podcasts](#podcasts) 
 
 # Guides
 
@@ -144,11 +144,6 @@ It is a mutable list that is born incomplete, but the intention is to keep it in
 # Podcasts
 
 - [Hipsters.tech](https://hipsters.tech)
-
-
-# Content Update Control
-- May-30-2021
-
 
 ## Author
 
