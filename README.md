@@ -95,6 +95,7 @@ It is a mutable list that is born incomplete, but the intention is to keep it in
 
 - [Maycon's Book Database](https://www.notion.so/48c3e5c764084e81855cdf016ea88435?v=9507c7f9533045e3babad4839669e3f0)
 - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+- [Guia Foca](https://www.guiafoca.org) - PDF's books/guides which contains basic explanations about computers and UNIX/LINUX systems
 
 # Tools
 
