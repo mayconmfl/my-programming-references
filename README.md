@@ -70,6 +70,7 @@ It is a mutable list that is born incomplete, but the intention is to keep it in
 - [Java Faker Library](https://github.com/DiUS/java-faker)
 - [Shopify Toxiproxy](https://github.com/shopify/toxiproxy) - Incredible lib to inject network failures and delays
 - [Public API's](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development
+- [Hacker Laws](https://github.com/dwmkerr/hacker-laws) - Awesome collection of Laws, Theories, Principles and Patterns that developers will find useful
 
 # YouTube Channels
 
