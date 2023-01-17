@@ -30,6 +30,7 @@ It is a mutable list that is born incomplete, but the intention is to keep it in
 
 # Guides
 
+- [MS API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 - [Azure Architecture Center](https://docs.microsoft.com/pt-br/azure/architecture/)
 - [National Bank Belgium REST API Design Guide](https://github.com/NationalBankBelgium/REST-API-Design-Guide/wiki)
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
